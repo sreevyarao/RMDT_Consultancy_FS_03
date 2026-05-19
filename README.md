@@ -1,4 +1,4 @@
-[![Live Server](https://shields.io)](YOUR_SERVER_URL_HERE)
+[![Live Server](https://shields.io)](https://sreevyarao.github.io/RMDT_Consultancy_FS_03/)
 
  # 🏗️ R.M.D.T Consultancy – Engineering QC & Infrastructure Auditing Platform
 
