@@ -291,7 +291,7 @@ This project is a conceptual frontend demonstration created for educational, int
 
 # 👩‍💻 Developed By
 
-Sreevya Rao
+S.Sreevya Rao
 
 Frontend Developer | CSE (AI & ML) Student
 Focused on building modern, responsive, and real-world inspired web experiences.
